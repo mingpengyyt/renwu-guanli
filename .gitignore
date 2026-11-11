@@ -31,3 +31,6 @@ htmlcov/
 # Local env / secrets
 .env
 *.local
+
+# Task data (runtime user data, not versioned)
+tasks.json
